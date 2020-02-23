@@ -17,7 +17,7 @@ The network will use docker swarm for the reasons listed [here](https://hackerno
 | ----- | ----- | ----- | ---- | ---- | ---- | ---- |
 | mycelium (laptop) | Transient | Worker | x | x | x | x | x |
 | wheelhouse | 7X.XX.XX.X79 | Manager | docker version 18.09.7, build 2d0083d | docker-compose version 1.24.1, build 4667896b | n/a |
-| roost | 7X.XX.XX.X29 | Manager | Docker version 19.03.5, build 633a0ea | docker-compose version 1.24.1, build 4667896b | docker-machine version 0.16.2, build bd45ab13 |
+| roost | 7X.XX.XX.X29 | Worker | Docker version 19.03.5, build 633a0ea | docker-compose version 1.24.1, build 4667896b | docker-machine version 0.16.2, build bd45ab13 |
 
 ### Necessary Ports to Open
 
